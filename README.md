@@ -22,7 +22,7 @@ News Impact Analysis: Future iterations could explore the impact of news headlin
 
 ### Install the necessary packages with the following commands:
 
-pip install --upgrade pandas pandas-datareader finance .
+pip install --upgrade pandas pandas-datareader finance.\
 
 
 ### Prepare your environment and data with the following imports and setups:
