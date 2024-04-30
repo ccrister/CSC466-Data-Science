@@ -27,12 +27,12 @@ pip install --upgrade pandas pandas-datareader finance .
 
 ### Prepare your environment and data with the following imports and setups:
 
-import numpy as np. 
-import pandas as pd. 
-import yfinance as yf. 
-from keras.models import Sequential. 
-from keras.layers import LSTM, Dropout, Dense. 
-from sklearn.tree import Decision TreeRegressor. 
+import numpy as np.\
+import pandas as pd.\
+import yfinance as yf.\
+from keras.models import Sequential.\ 
+from keras.layers import LSTM, Dropout, Dense.\ 
+from sklearn.tree import Decision TreeRegressor.\ 
 
 Data for the models is sourced from Yahoo Finance using the yfinance library, which ensures the data is up-to-date and reliable for training and testing purposes. 
 
