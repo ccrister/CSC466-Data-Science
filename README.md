@@ -16,11 +16,10 @@ Performance Variability: Testing across different stocks revealed significant va
 Hyperparameter Tuning: Adjustments in the RNN's hyperparameters, like the number of epochs and LSTM units, significantly affected its performance.
 Future Work
 News Impact Analysis: Future iterations could explore the impact of news headlines on share prices, an aspect not covered due to time constraints.
+
 Installation
 Install the necessary packages with the following commands:
 
-bash
-Copy code
 pip install --upgrade pandas pandas-datareader yfinance
 Usage
 Prepare your environment and data with the following imports and setups:
