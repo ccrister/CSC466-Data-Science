@@ -13,11 +13,11 @@ Implementation: Built using TensorFlow and Keras.\
 Method: Employs a recursive algorithm to process the dataset, making decisions at each node until a prediction is output.
 Details: Implemented to compare its performance against the RNN model.\
 
-###Results
+### Results
 Performance Variability: Testing across different stocks revealed significant variations in accuracy, influenced by external factors affecting companies.
 Hyperparameter Tuning: Adjustments in the RNN's hyperparameters, like the number of epochs and LSTM units, significantly affected its performance.\
 
-###Future Work
+### Future Work
 News Impact Analysis: Future iterations could explore the impact of news headlines on share prices, an aspect not covered due to time constraints.
 
 ### Install the necessary packages with the following commands:
