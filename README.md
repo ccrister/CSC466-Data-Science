@@ -1,6 +1,6 @@
 # CSC466-Data-Science
 
-### 'Project Overview'
+### Project Overview
 
 The objective of this project was to develop and evaluate two models for predicting GameStop's share prices. This involved using TensorFlow and Keras to implement the models and adjust their parameters to optimize predictions.
 
